@@ -1,0 +1,10 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://bigToe.github.io
+title: The Tao of Project Management
+email: hello2luke+tinypress@gmail.com
+author: Luke Lam
+description: My awesome new site
+paginate: 10
+google_analytics: 
